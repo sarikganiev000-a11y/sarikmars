@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.header{
+    width: 1440px;
+    height: 140px;
+
+}
+.nava{
+    display: flex;
+    gap: 1170px;
+    padding: 45px 0;
+}
+.text1{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+}
+.div1{
+    display: flex;
+    gap: 14px;
+}
+.main{
+    border: 1px solid #DEDBDB
+}
+.sarik1{
+    width: 650px;
+    height: 856px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    margin: 0 auto;
+    margin: 46px 500px;
+}
+.tepa{
+    display: flex;
+    padding: 76px 65px;
+
+}
+.ichi{
+    display: flex;
+    gap: 10px;
+    color: #F0400F;
+    
+}
+.ichi p{
+    margin: 3px 0;
+}
+.h1{
+    margin: 20px 0;
+    font-size: 48px;
+    font-weight: 700px;
+    text-align: center;
+    color: #0E0D5D;
+
+}
+.textlar{
+    display: flex;
+    padding: 0 115px;
+    gap: 82px;
+    background-color: rgb(193, 193, 193);
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    align-items: center;
+}
+.input1{
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    margin: 50px 60px;
+}
+.input1::placeholder{
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+}
+.input2{
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    margin: 15px 60px;
+}
+.input2::placeholder{
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+}
+.h3{
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+.btn{
+    width: 202px;
+    height: 67px;
+    border-radius: 20px;
+    background: #F69E86;
+    margin-top: 35px;
+    margin-left: 390px;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
